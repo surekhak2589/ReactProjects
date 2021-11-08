@@ -19,7 +19,7 @@
 
 .Seeds1 {
     width: 10%;
-    height: 15%;
+    height: 12%;
     position: absolute;
     background-color: white;
     left: 30%;
@@ -31,8 +31,8 @@
 
 .Seeds1:after {
     content: "";
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
     position: absolute;
     background-color: white;
     left: -170%;
@@ -57,7 +57,7 @@
 
   .Seeds2 {
     width: 10%;
-    height: 15%;
+    height: 12%;
     position: absolute;
     background-color: white;
     left: 64%;
